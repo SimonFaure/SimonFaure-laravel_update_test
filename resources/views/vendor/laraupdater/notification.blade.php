@@ -10,6 +10,7 @@
         <button type="button" onclick="update();" class="btn btn-info btn-sm update_btn">{{trans('laraupdater.Update_Now')}}</button>
     </div>
 </div>
+<p>qfsfdk</p>
 
 <script>
     $(document).ready(function() {
