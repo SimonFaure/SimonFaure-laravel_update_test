@@ -12,7 +12,7 @@
     <body class="antialiased">
         <h1>Taghunter update</h1>
         <p>this is definitely not the new update</p>
-        <p>test git 6</p>
+        <p>test git 7</p>
     @include('vendor.laraupdater.notification')   
  <script src="{{ asset('/includes/bootstrap/js/popper.min.js') }}"></script>
   <script src="{{ asset('/includes/bootstrap/js/bootstrap.min.js') }}"></script>
